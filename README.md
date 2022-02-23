@@ -1,6 +1,8 @@
 # Assignment_1_Feedforward_Neural_Networks
 Authors: Anurag Mahendra Shukla (CS21M007) and Chandra Churh Chatterjee (CS21M013).
 
+Report Link: https://wandb.ai/cs21m007_cs21m013/Assignment_1_random_randomSeed/reports/CS6910-Assignment-1-Feed-Forward-Neural-Network-from-scratch-for-Fashion-MNIST-classification---VmlldzoxNTk0NzEz?accessToken=yq11khq5xset2zmriit9v16x0ijt80ycyaw33ewod2qb7z6yfhq2pm42tmnminvg
+
 This repository contains Assignment 1 of CS6910
 
 We have implemented Feedforward Neural Network from scratch and trained it for Fashion - Mnist dataset.
@@ -165,4 +167,4 @@ wandb.agent(sweep_id, train, count= sweep_count)
 
 `Note: This will take about 6-7 hours for default(100) sweep counts`
 
-Report Link: https://wandb.ai/cs21m007_cs21m013/Assignment_1_random_randomSeed/reports/CS6910-Assignment-1-Feed-Forward-Neural-Network-from-scratch-for-Fashion-MNIST-classification---VmlldzoxNTk0NzEz?accessToken=yq11khq5xset2zmriit9v16x0ijt80ycyaw33ewod2qb7z6yfhq2pm42tmnminvg
+
