@@ -67,7 +67,7 @@ model.add(Layer(Num_of_hidden_units, activation=activation_function))
 Where activation_function = 'tanh', 'relu', 'sigmoid' or 'softmax'
 
 ## Fitting the model
-###Set the hyper-parameter configuration
+### Set the hyper-parameter configuration
 
 ```
 epochs = 10
@@ -82,7 +82,7 @@ reg=0.0005
 
 Note: You can set your own hyper-parameters for training
 
-###Call the fit function
+### Call the fit function
 
 
 ```
@@ -98,7 +98,7 @@ y_train: Your training set output
 y_pred=model.predict(x_test)
 ```
 
-### Calculating Training accuracy
+### Calculating Test accuracy
 
 ````
 help=Helper()
@@ -165,4 +165,4 @@ wandb.agent(sweep_id, train, count= sweep_count)
 
 `Note: This will take about 6-7 hours for default(100) sweep counts`
 
-
+Report Link: https://wandb.ai/cs21m007_cs21m013/Assignment_1_random_randomSeed/reports/CS6910-Assignment-1-Feed-Forward-Neural-Network-from-scratch-for-Fashion-MNIST-classification---VmlldzoxNTk0NzEz?accessToken=yq11khq5xset2zmriit9v16x0ijt80ycyaw33ewod2qb7z6yfhq2pm42tmnminvg
