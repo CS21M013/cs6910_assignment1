@@ -1,4 +1,4 @@
-# Assignment_1_Feedforward_Neural_Networks
+# Assignment 1 Feedforward Neural Networks
 Authors: Anurag Mahendra Shukla (CS21M007) and Chandra Churh Chatterjee (CS21M013).
 
 Report Link: https://wandb.ai/cs21m007_cs21m013/Assignment_1_random_randomSeed/reports/CS6910-Assignment-1-Feed-Forward-Neural-Network-from-scratch-for-Fashion-MNIST-classification---VmlldzoxNTk0NzEz?accessToken=yq11khq5xset2zmriit9v16x0ijt80ycyaw33ewod2qb7z6yfhq2pm42tmnminvg
