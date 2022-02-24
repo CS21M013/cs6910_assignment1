@@ -5,7 +5,9 @@ Report Link: https://wandb.ai/cs21m007_cs21m013/Assignment_1_random_randomSeed/r
 
 This repository contains Assignment 1 of CS6910
 
-We have implemented Feedforward Neural Network from scratch and trained it for Fashion - Mnist dataset.
+We have implemented Feedforward Neural Network from scratch and trained it for Fashion - MNIST dataset. The report link mentioned above represents
+the entire experimentation including hyper parameter tuning for Fashion - MNIST dataset and using ideas from the experiment to test the performance of 
+different combinations of hyper-parameters on the MNIST data. The repository also allows one to use wandb for tuning the model and better visualization
 
 ## File Descriptions:
 
